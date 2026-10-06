@@ -1,0 +1,6 @@
+{
+  "name": "HomeVanta Surat Real Estate",
+  "description": "Surat's premier verified real estate platform for buying, renting, and new projects. Direct sales contact with Hardik Hingu (8879719844).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
